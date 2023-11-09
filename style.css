@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.output{
+    padding: 20px;
+    font-size: 0.5em;
+}
+input {
+    min-width: 250px;
+}
+label {
+    color: #444;
+}
