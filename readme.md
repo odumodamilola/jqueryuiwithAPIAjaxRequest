@@ -1,4 +1,4 @@
-# jQuery UI Autocomplete with API Request
+# jQuery UI Autocomplete with API AJAX Request
 
 ![jQuery](https://img.shields.io/badge/jQuery-3.6.0-blue) ![jQuery UI](https://img.shields.io/badge/jQuery%20UI-1.12.1-orange)
 
